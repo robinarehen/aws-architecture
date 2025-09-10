@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Página-1" id="OqnNcCK4WbZBiVdwAqOJ">
+    <mxGraphModel dx="983" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0p3QOWps79wbw6SZDZH5-4" value="Grupo Desarrollo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="83" y="360" width="277" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0p3QOWps79wbw6SZDZH5-5" value="Grupo Operaciones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="441" y="360" width="277" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0p3QOWps79wbw6SZDZH5-1" value="User 1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="45" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="0p3QOWps79wbw6SZDZH5-2" value="User 2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="45" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="0p3QOWps79wbw6SZDZH5-9" value="Grupo Auditoria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="277" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0p3QOWps79wbw6SZDZH5-3" value="User 3" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="45" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="0p3QOWps79wbw6SZDZH5-6" value="User 4" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="482" y="400" width="45" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="0p3QOWps79wbw6SZDZH5-7" value="User 5" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="562" y="400" width="45" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="0p3QOWps79wbw6SZDZH5-8" value="User 6" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="642" y="400" width="45" height="63" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
